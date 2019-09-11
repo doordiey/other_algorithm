@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/other_algorithm.iml" filepath="$PROJECT_DIR$/.idea/other_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../passport-master/.idea/passport-master.iml" filepath="$PROJECT_DIR$/../passport-master/.idea/passport-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test-1/.idea/test-1.iml" filepath="$PROJECT_DIR$/../test-1/.idea/test-1.iml" />
     </modules>
   </component>
 </project>
